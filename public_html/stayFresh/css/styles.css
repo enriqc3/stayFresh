@@ -1,0 +1,33 @@
+html, 
+body{
+	height: 100%;
+	font-size: 1rem;
+	font-family: 'Open Sans', sans-serif;
+	background: #2f2e2e;
+}
+
+.gradient{
+	background: linear-gradient(to bottom, #8ca361 0%,#090366 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f8f8', endColorstr='#eaeaea',GradientType=0 );
+}
+
+
+.footer{
+	background: #979696;
+	color: #ffffff;
+}
+/* the text color */
+.page-header{
+	padding-top: 5%;
+	padding-bottom: 5%;
+	padding-right: 15%;
+	margin-top: 4.75rem;
+	color: #eaeaea
+}
+
+.products-eggs{
+	padding-top: 5%;
+	padding-bottom: 5%;
+	margin-top: 0rem;
+	color: #eaeaea;
+}

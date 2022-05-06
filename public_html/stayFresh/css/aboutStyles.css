@@ -1,0 +1,30 @@
+html, 
+body{
+	height: 100%;
+	font-size: 1rem;
+	font-family: 'Open Sans', sans-serif;
+	background-image: url(../imgs/aboutBG.jpg);
+	background-color: #cccccc;
+	/*background: rgb(100, 100, 100);*/
+}
+
+/* the about us text color */
+.about-header{
+	padding: 0;
+	margin-top: 4.75rem;
+	color: #eaeaea
+}
+
+/* the color of the text inside the card */
+.card{
+	background: #7a7a7d77;
+}
+.card-title{
+	color: #eaeaea;
+}
+.card-body{
+	color: #eaeaea;
+}
+.card-footer{
+	color: #eaeaea;
+}

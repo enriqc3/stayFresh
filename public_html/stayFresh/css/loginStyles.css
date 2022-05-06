@@ -1,0 +1,20 @@
+html, 
+body{
+	height: 100%;
+	font-size: 1rem;
+	font-family: 'Open Sans', sans-serif;
+	background-image: url(../imgs/trees.jpg);
+	background-color: #cccccc;
+	/*background: rgb(100, 100, 100);*/
+}
+
+.login{
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.gradient{
+	background: linear-gradient(to right, #000000, #7a7a7d77);
+}
