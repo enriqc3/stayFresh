@@ -21,7 +21,7 @@
 					<a class="nav-link" href="about.php">About</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="contact.php">Contact</a>
+					<a class="nav-link" href="products.php">Products</a>
 				</li>
 				<!-- add login button if not logged in -->
 				<?php if(!isset($_SESSION['loggedin'])){ ?>

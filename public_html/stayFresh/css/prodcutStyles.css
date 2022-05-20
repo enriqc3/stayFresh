@@ -1,0 +1,28 @@
+html, 
+body{
+	height: 100%;
+	font-size: 1rem;
+	font-family: 'Open Sans', sans-serif;
+	background-image: url(../imgs/trees.jpg);
+	background-color: #cccccc;
+	/*background: rgb(100, 100, 100);*/
+}
+
+.products-Page{
+	padding: 0;
+	margin-top: 4.75rem;
+}
+
+/* the color of the text inside the card */
+.card{
+	background: #7a7a7d77;
+}
+.card-title{
+	color: #eaeaea;
+}
+.card-body{
+	color: #eaeaea;
+}
+.card-footer{
+	color: #eaeaea;
+}
