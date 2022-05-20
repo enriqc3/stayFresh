@@ -23,6 +23,9 @@
 				<li class="nav-item">
 					<a class="nav-link" href="products.php">Products</a>
 				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="inventory.php">Manage</a>
+				</li>
 				<!-- add login button if not logged in -->
 				<?php if(!isset($_SESSION['loggedin'])){ ?>
 					<li class="nav-item">
